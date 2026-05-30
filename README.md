@@ -20,3 +20,7 @@
  <a href="https://discord.gg/236957863879114754" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:denissilva@ce.senac.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+![Snake animation](https://github.com/Divino1148/Divino1148/blob/output/github-contribution-grid-snake.svg)
